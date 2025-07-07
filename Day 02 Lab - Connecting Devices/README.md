@@ -28,8 +28,8 @@ use a fiber connection.
 ---
 
 ## Steps Performed
--  Reviewed the topology to understand the cable requirements between devices.
--  Manually cabled the devices according to IEEE 802.3 Ethernet and fiber optic standards, considering device types and cable requirements.
+1.  Reviewed the topology to understand the cable requirements between devices.
+2.  Manually cabled the devices according to IEEE 802.3 Ethernet and fiber optic standards, considering device types and cable requirements.
     
 ## Network Diagram Before
 
