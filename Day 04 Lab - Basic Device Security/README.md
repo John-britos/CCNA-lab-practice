@@ -2,7 +2,7 @@
 
 **Name:** John Ashley Britos
 **Date:** July 7, 2025  
-**Lab Title:** Day 01 Lab - Packet Tracer Introduction  
+**Lab Title:** Day 04 Lab - Basic Device Security 
 **Lab Tool:** Cisco Packet Tracer  
 **File Name:** `Day 04 Lab - Basic Device Security.pkt`
 
@@ -59,16 +59,28 @@
 <sub>*Figure 4: Viewing the password using show run command *</sub>
 
 6. Encrypted the password and view it again.
-![exit and view](./assets/day4_5.png)  
+![encryption](./assets/day4_5.png)  
 <sub>*Figure 5: Password encryption using service password-encryption *</sub>
 
-7. configured a more secure password using the **enable secret** command.
-![exit and view](./assets/day4_6.png)  
+7. Configured a more secure password using the **enable secret** command.
+![secret](./assets/day4_6.png)  
 <sub>*Figure 6: New way of securing the devices using the enable secret command *</sub>
+
+8. Saved the configuration using the **write** command.
+![saving configs](./assets/day4_7.png)  
+<sub>*Figure 7: Saved the modified configuration using the write command *</sub>
 ---
 
-## Reflection 
-- learned and understand basic security measures for cisco devices
-- learned basic commands for configuring and viewing informations
+### Password Behavior Observed
+
+- After configuring `enable secret`, the device required the **secret password (Cisco)** to access privileged EXEC mode.
+- In the running configuration:
+  - `enable password` uses **Type 7** encryption (reversible)
+  - `enable secret` uses **Type 5** encryption (hashed and more secure)
+
+## Reflection  
+- Learned and understood basic security measures for Cisco devices.  
+- Learned basic commands for configuring and viewing device information.  
+- Learned how to save modified configurations using the `write` command.  
 
 ---

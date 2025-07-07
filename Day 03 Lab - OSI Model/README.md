@@ -2,7 +2,7 @@
 
 **Name:** John Ashley Britos
 **Date:** July 7, 2025  
-**Lab Title:** Day 02 Lab - Connecting Devices  
+**Lab Title:** Day 03 Lab - OSI Model  
 **Lab Tool:** Cisco Packet Tracer  
 **File Name:** `Day 03 Lab - OSI Model.pkt`
 
