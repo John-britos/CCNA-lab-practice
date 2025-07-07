@@ -36,7 +36,7 @@ Both switches have an empty MAC address table, and all PCs have an empty ARP tab
 
 3. Used PC2 to ping PC4 (192.168.1.4).  
 4. Viewed the MAC address of each PC using the `show mac address-table` command.  
-![mac add](./assets/DAY6_3.png)  
+![mac add](./assets/day6_3.png)  
 <sub>*Figure 3: Viewing MAC address table on the switch*</sub>  
 
 5. Cleared the MAC address table using the `clear mac address-table dynamic` command.  
