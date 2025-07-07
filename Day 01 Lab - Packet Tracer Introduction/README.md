@@ -18,6 +18,13 @@
 
 ---
 
+## 🗺️ Network Diagram
+
+![Day 01 Topology](./assets/day1.png)  
+<sub>📎 *Figure 1: Day 01 Topology recreated in Cisco Packet Tracer*</sub>
+
+---
+
 ## 🧰 Devices Used
 
 | Device Type | Model         | Quantity |
@@ -29,15 +36,6 @@
 | Server      | Generic Server| 2        |
 | Laptop      | Generic Laptop| 1        |
 | Cable       | Auto Select   | As needed| 
-
----
-
-## 🗺️ Network Diagram
-
-> Screenshot of the recreated topology based on the video (insert your screenshot here).
-
-![Day 01 Topology](./assets/day1.png)  
-<sub>📎 *Figure 1: Day 01 Topology recreated in Cisco Packet Tracer*</sub>
 
 ---
 
