@@ -1,4 +1,4 @@
-# 🧾 Day 02 Lab - Connecting Devices
+# Day 02 Lab - Connecting Devices
 
 **Name:** John Ashley Britos
 **Date:** July 7, 2025  
@@ -6,7 +6,9 @@
 **Lab Tool:** Cisco Packet Tracer  
 **File Name:** `Day 02 Lab - Connecting Devices.pkt`
 
-## 🎯 Objective
+---
+
+## Objective
 
 - Connect the network devices together according to the labels.
 - Use the appropriate type of cable.
@@ -18,25 +20,25 @@ use a fiber connection.
  
 ---
 
-## 📌 Network Diagram Before
+## Network Diagram Before
 
 ![Day 02 Topology](./assets/day2_before.png)  
-<sub>📎 *Figure 1: Initial Topology *</sub>
+<sub>*Figure 1: Initial Topology *</sub>
 
 ---
 
-## 🛠️ Steps Performed
+## Steps Performed
 -  Reviewed the topology to understand the cable requirements between devices.
 -  Manually cabled the devices according to IEEE 802.3 Ethernet and fiber optic standards, considering device types and cable requirements.
     
-## 📌 Network Diagram Before
+## Network Diagram Before
 
 ![Day 02 Topology](./assets/day2_after.png)  
-<sub>📎 *Figure 2: Final Topology *</sub>
+<sub>*Figure 2: Final Topology *</sub>
 
 ---
 
-## 📚 Reflection
+## Reflection
 
 - Learned how to properly connect devices based on the requirements given. 
 - learned IEEE 802.3 ethernet and fiber optic standards.

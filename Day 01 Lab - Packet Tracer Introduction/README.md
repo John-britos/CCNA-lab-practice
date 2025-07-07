@@ -1,4 +1,4 @@
-# 🧾 Day 01 Lab – Packet Tracer Introduction 
+# Day 01 Lab – Packet Tracer Introduction 
 
 **Name:** John Ashley Britos
 **Date:** July 7, 2025  
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Recreate the network topology shown at the 16:40 mark of the Day 01 instruction video.
 - Place all required devices in Cisco Packet Tracer.
@@ -18,14 +18,14 @@
 
 ---
 
-## 🗺️ Network Diagram
+## Network Diagram
 
 ![Day 01 Topology](./assets/day1.png)  
-<sub>📎 *Figure 1: Day 01 Topology recreated in Cisco Packet Tracer*</sub>
+<sub>*Figure 1: Day 01 Topology recreated in Cisco Packet Tracer*</sub>
 
 ---
 
-## 🧰 Devices Used
+## Devices Used
 
 | Device Type | Model         | Quantity |
 |-------------|---------------|----------|
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Steps Performed
+## Steps Performed
 
 1. Opened Cisco Packet Tracer.
 2. Placed the following devices onto the workspace:
@@ -56,7 +56,7 @@
 
 ---
 
-## ❗ Issues Faced & Solutions
+## Issues Faced & Solutions
 
 | Issue                            | Resolution                                         |
 |----------------------------------|----------------------------------------------------|
@@ -65,7 +65,7 @@
 
 ---
 
-## 📚 Reflection
+## Reflection
 
 - Learned to recreate a professional network layout using only visual design.
 - Practiced identifying devices and placing them accurately in Packet Tracer.
