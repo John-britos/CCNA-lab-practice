@@ -1,6 +1,6 @@
 # Day 02 Lab - Connecting Devices
 
-**Name:** John Ashley Britos
+**Name:** John Ashley Britos  
 **Date:** July 7, 2025  
 **Lab Title:** Day 02 Lab - Connecting Devices  
 **Lab Tool:** Cisco Packet Tracer  

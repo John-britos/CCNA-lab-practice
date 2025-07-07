@@ -1,9 +1,9 @@
 # Day 04 Lab - Basic Device Security
 
-**Name:** John Ashley Britos
-**Date:** July 7, 2025  
-**Lab Title:** Day 04 Lab - Basic Device Security 
-**Lab Tool:** Cisco Packet Tracer  
+**Name:** John Ashley Britos  
+**Date:** July 7, 2025   
+**Lab Title:** Day 04 Lab - Basic Device Security   
+**Lab Tool:** Cisco Packet Tracer    
 **File Name:** `Day 04 Lab - Basic Device Security.pkt`
 
 ---

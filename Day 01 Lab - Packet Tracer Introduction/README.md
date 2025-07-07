@@ -1,6 +1,6 @@
 # Day 01 Lab – Packet Tracer Introduction 
 
-**Name:** John Ashley Britos
+**Name:** John Ashley Britos  
 **Date:** July 7, 2025  
 **Lab Title:** Day 01 Lab - Packet Tracer Introduction  
 **Lab Tool:** Cisco Packet Tracer  

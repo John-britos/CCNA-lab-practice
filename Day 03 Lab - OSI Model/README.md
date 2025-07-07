@@ -1,6 +1,6 @@
 # Day 03 Lab - OSI Model
 
-**Name:** John Ashley Britos
+**Name:** John Ashley Britos  
 **Date:** July 7, 2025  
 **Lab Title:** Day 03 Lab - OSI Model  
 **Lab Tool:** Cisco Packet Tracer  
