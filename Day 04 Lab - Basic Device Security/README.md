@@ -55,7 +55,7 @@
 4. Exit back to the user exec mode to test the password.
 5. View the password in the running config.
 
-![exit and view](./assets/DAY4_4.png)  
+![exit and view](./assets/day4_4.png)  
 <sub>*Figure 4: Viewing the password using show run command *</sub>
 
 6. Encrypted the password and view it again.
