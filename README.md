@@ -2,7 +2,7 @@
 
 This repository contains my hands-on practice and documentation as I learn **networking fundamentals** using **Cisco Packet Tracer** alongside the free **Jeremy’s IT Lab** CCNA course on YouTube.
 
-I’m using this space to build up CCNA-level skills through consistent practice, configuration, and lab documentation.
+I’m using this space to build up Networking skills through consistent practice, configuration, and lab documentation.
 
 ---
 
