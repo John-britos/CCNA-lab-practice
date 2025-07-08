@@ -2,7 +2,7 @@
 
 **Name:** John Ashley Britos  
 **Date:** July 8, 2025  
-**Lab Title:** Day 08 Lab - IPv4 Addresses 
+**Lab Title:** Day 08 Lab - IPv4 Addresses  
 **Lab Tool:** Cisco Packet Tracer  
 **File Name:** `Day 08 Lab - IPv4 Addresses.pkt`
 
