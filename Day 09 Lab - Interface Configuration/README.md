@@ -38,9 +38,9 @@ Added a description for clarity, set the speed to 1000 and duplex to full, issue
 
 3. Accessed the CLI of SW1 and SW2, set the hostnames accordingly.
 Added interface descriptions:
-## to end host ## (e.g. PC1)
-## to SW2 or R1 ## (uplink interfaces)
-## not used ## (disabled ports)
+- to end host ## (e.g. PC1)
+- to SW2 or R1 ## (uplink interfaces)
+- not used ## (disabled ports)
 Manually set speed and duplex to match connected devices (e.g. speed 1000, duplex full)
 4. Shutdown all unused ports using **shutdown** command and saved configuration with **wr**.
 ![3](./assets/7.png)  
