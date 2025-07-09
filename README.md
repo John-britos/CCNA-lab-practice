@@ -44,6 +44,8 @@ You can view individual labs below:
 - [Day 04 – Basic Device Security](./Day%2004%20Lab%20-%20Basic%20Device%20Security/README.md)
 - [Day 06 – Ethernet LAN Switching](./Day%2006%20Lab%20-%20Ethernet%20LAN%20Switching/README.md)
 - [Day 08 – IPv4 Addresses](./Day%2008%20Lab%20-%20IPv4%20Addresses/README.md)
+- [Day 09 Lab - Interface Configuration](./Day%2009%20Lab%20-%20Interface%20Configuration/README.md)
+
 <!-- Add more days as you go -->
 
 ---
