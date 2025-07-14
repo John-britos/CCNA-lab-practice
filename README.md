@@ -45,6 +45,7 @@ You can view individual labs below:
 - [Day 06 – Ethernet LAN Switching](./Day%2006%20Lab%20-%20Ethernet%20LAN%20Switching/README.md)
 - [Day 08 – IPv4 Addresses](./Day%2008%20Lab%20-%20IPv4%20Addresses/README.md)
 - [Day 09 Lab - Interface Configuration](./Day%2009%20Lab%20-%20Interface%20Configuration/README.md)
+- [Day 11 Lab - Configuring Static Routes](./Day%2011%20Lab%20-%20Configuring%20Static%20Routes/README.md)
 
 <!-- Add more days as you go -->
 
