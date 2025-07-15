@@ -46,7 +46,7 @@ You can view individual labs below:
 - [Day 08 – IPv4 Addresses](./Day%2008%20Lab%20-%20IPv4%20Addresses/README.md)
 - [Day 09 Lab - Interface Configuration](./Day%2009%20Lab%20-%20Interface%20Configuration/README.md)
 - [Day 11 Lab - Configuring Static Routes](./Day%2011%20Lab%20-%20Configuring%20Static%20Routes/README.md)
-
+- [Day 11 Lab - Troubleshooting Static Routes](./Day%2011%20Lab%20-%20Troubleshooting%20Static%20Routes/README.md)
 <!-- Add more days as you go -->
 
 ---
