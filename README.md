@@ -47,6 +47,7 @@ You can view individual labs below:
 - [Day 09 Lab - Interface Configuration](./Day%2009%20Lab%20-%20Interface%20Configuration/README.md)
 - [Day 11 Lab - Configuring Static Routes](./Day%2011%20Lab%20-%20Configuring%20Static%20Routes/README.md)
 - [Day 11 Lab - Troubleshooting Static Routes](./Day%2011%20Lab%20-%20Troubleshooting%20Static%20Routes/README.md)
+- [Day 15 Lab - VLSM](./Day%2015%20Lab%20-%20VLSM/README.md)
 <!-- Add more days as you go -->
 
 ---
