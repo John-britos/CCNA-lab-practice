@@ -26,7 +26,6 @@ Configure static routes on each router so that all PCs can ping eachother.
 ## Steps Performed
 1. Planned Subnetting - Used VLSM to determine subnet sizes for each LAN.
 ![11](./assets/11.png)
-<sub>*Figure 1: Subnetting Plan*</sub>
 
 2. Configured Router Interfaces - Assigned IP addresses to each router interface based on the subnet plan.
 ![2](./assets/2.png)
