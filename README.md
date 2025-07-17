@@ -54,7 +54,7 @@ You can view individual labs below:
 
 ## 🎯 My Goal
 
-To build a strong foundation in networking, reinforce CCNA exam topics, and become job-ready for entry-level roles in **networking** or **cybersecurity**.
+To build a strong foundation in networking, and become job-ready for entry-level roles in **networking/cybersecurity/cloud**.
 
 ---
 
