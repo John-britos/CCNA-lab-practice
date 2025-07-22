@@ -49,6 +49,7 @@ You can view individual labs below:
 - [Day 11 Lab - Troubleshooting Static Routes](./Day%2011%20Lab%20-%20Troubleshooting%20Static%20Routes/README.md)
 - [Day 15 Lab - VLSM](./Day%2015%20Lab%20-%20VLSM/README.md)
 - [Day 16 Lab - VLANs (Part 1)](./Day%2016%20Lab%20-%20VLANs%20%28Part%201%29/README.md)
+- [Day 17 Lab - VLANs (Part 2)](./Day%2017%20Lab%20-%20VLANs%20%28Part%202%29/README.md)
 <!-- Add more days as you go -->
 
 ---
